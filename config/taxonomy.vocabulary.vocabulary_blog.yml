@@ -1,0 +1,9 @@
+uuid: ff1216ce-3291-43ac-91ac-2bf2061c4a35
+langcode: en
+status: true
+dependencies: {  }
+name: Vocabulary_Blog
+vid: vocabulary_blog
+description: vocabulary_Miguel
+weight: 0
+new_revision: false

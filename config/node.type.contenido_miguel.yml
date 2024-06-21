@@ -1,0 +1,18 @@
+uuid: 402aa77f-a956-4926-87c7-c5495cc5f48b
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus:
+      - main
+    parent: 'main:'
+name: Contenido_Miguel
+type: contenido_miguel
+description: 'Tipo de contenido Miguel'
+help: null
+new_revision: true
+preview_mode: 1
+display_submitted: true

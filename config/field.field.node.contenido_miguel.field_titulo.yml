@@ -1,0 +1,19 @@
+uuid: 919dd711-d629-4a0f-9d97-21c4c3dc2aae
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_titulo
+    - node.type.contenido_miguel
+id: node.contenido_miguel.field_titulo
+field_name: field_titulo
+entity_type: node
+bundle: contenido_miguel
+label: Titulo
+description: 'titulo del contenido miguel'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

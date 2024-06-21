@@ -1,0 +1,36 @@
+uuid: b6713f7f-e605-4d51-b488-9e2dbab7dcc6
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.teaser
+    - field.field.node.contenido_miguel.body
+    - field.field.node.contenido_miguel.field_enlace
+    - field.field.node.contenido_miguel.field_imagen
+    - field.field.node.contenido_miguel.field_titulo
+    - node.type.contenido_miguel
+  module:
+    - text
+    - user
+id: node.contenido_miguel.teaser
+targetEntityType: node
+bundle: contenido_miguel
+mode: teaser
+content:
+  body:
+    type: text_summary_or_trimmed
+    label: hidden
+    settings:
+      trim_length: 600
+    third_party_settings: {  }
+    weight: 101
+    region: content
+  links:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 100
+    region: content
+hidden:
+  field_enlace: true
+  field_imagen: true
+  field_titulo: true
