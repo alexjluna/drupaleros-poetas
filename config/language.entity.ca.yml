@@ -1,9 +1,9 @@
-uuid: 54040c06-a4ce-4d73-9c3d-6abdcf5c1857
+uuid: 6d68cb18-c175-4a14-b35f-02503566ff24
 langcode: es
 status: true
 dependencies: {  }
 id: ca
 label: Catalan
 direction: ltr
-weight: -8
+weight: -7
 locked: false
