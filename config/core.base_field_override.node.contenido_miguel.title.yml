@@ -1,0 +1,18 @@
+uuid: 047c8e85-ea83-4982-948c-a7a2653d42e9
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.contenido_miguel
+id: node.contenido_miguel.title
+field_name: title
+entity_type: node
+bundle: contenido_miguel
+label: título
+description: ''
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

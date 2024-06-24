@@ -1,0 +1,24 @@
+uuid: 80fff2c6-2c6c-410c-ada8-f513594d3b64
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.body
+    - node.type.contenido_miguel
+  module:
+    - text
+id: node.contenido_miguel.body
+field_name: body
+entity_type: node
+bundle: contenido_miguel
+label: Body
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  display_summary: true
+  required_summary: false
+  allowed_formats: {  }
+field_type: text_with_summary
