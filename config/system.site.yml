@@ -4,7 +4,7 @@ langcode: en
 uuid: a4b3d956-d058-41b6-ae37-ac84837f0958
 name: 'Drupal Base'
 mail: admin@example.com
-slogan: ''
+slogan: 'La millor alimentació'
 page:
   403: ''
   404: ''
