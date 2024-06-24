@@ -8,3 +8,4 @@ node_modules/
 /web/sites/*
 .env
 /private/
+.DS_Store
