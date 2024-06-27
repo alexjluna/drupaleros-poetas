@@ -2,9 +2,9 @@ _core:
   default_config_hash: ijfbzDTN4CbE7Sr-6ubWzy_t1vH4OtU1doNCLssVz-4
 langcode: en
 uuid: a4b3d956-d058-41b6-ae37-ac84837f0958
-name: 'Drupal Base'
+name: 'Dead Poets Society'
 mail: admin@example.com
-slogan: 'La millor alimentació'
+slogan: "Eat, sleep, Drupal; That's we need all"
 page:
   403: ''
   404: ''
